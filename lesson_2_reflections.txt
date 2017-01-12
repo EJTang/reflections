@@ -4,3 +4,7 @@ It opens a empty git repository. We need to do this in order to actually track o
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 the staging area is the area you place the files that have changed in the working directory and that you want to update into the repository. Any changes made in the working directory and not placed in the staging area will not be added to the repository. This will allow us to add certain parts that would make a logical change if we were to have several parts that we created.
 
+How can you use the staging area to make sure you have one commit per logical change?
+you can add certain files to the staging area. Anything in the staging area will be added to the commit and anything that is not will not be in the new commit.
+This will allow us to only add files that were part of the logical change, and split our one edit into several parts if necessary.
+
