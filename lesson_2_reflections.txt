@@ -8,3 +8,16 @@ How can you use the staging area to make sure you have one commit per logical ch
 you can add certain files to the staging area. Anything in the staging area will be added to the commit and anything that is not will not be in the new commit.
 This will allow us to only add files that were part of the logical change, and split our one edit into several parts if necessary.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+this allows us to make bigger changes to our code while having a working version in case anything goes wrong. This is good for new features or different versions of something you want to try out.
+
+
+
+
+
+
+
+
+
+
+
