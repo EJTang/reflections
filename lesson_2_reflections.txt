@@ -18,8 +18,9 @@ What is the result of merging two branches together? Why do we represent it in t
 it will combine the differences in the files and will take the changes made in the two branches. This will add new features made or fix bugs that were existent before.
 We represent it that way because it is where two files will converge and make a single working file.
 
-
-
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+It saves a lot of time and the conflicts are usually shown to us when something has occured.
+Doing it manually gives up full control of how things are moved around but this takes a lot longer and could use up our precious time.
 
 
 
