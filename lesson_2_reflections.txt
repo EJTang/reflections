@@ -14,8 +14,9 @@ this allows us to make bigger changes to our code while having a working version
 How do the diagrams help you visualize the branch structure?
 Diagrams help us visualize the branch structure because it allows us to see where things branch out from each other and at what points were changes made.
 
-
-
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+it will combine the differences in the files and will take the changes made in the two branches. This will add new features made or fix bugs that were existent before.
+We represent it that way because it is where two files will converge and make a single working file.
 
 
 
