@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+It opens a empty git repository. We need to do this in order to actually track our files and have a repository.
