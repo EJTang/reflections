@@ -11,6 +11,8 @@ This will allow us to only add files that were part of the logical change, and s
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 this allows us to make bigger changes to our code while having a working version in case anything goes wrong. This is good for new features or different versions of something you want to try out.
 
+How do the diagrams help you visualize the branch structure?
+Diagrams help us visualize the branch structure because it allows us to see where things branch out from each other and at what points were changes made.
 
 
 
