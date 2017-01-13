@@ -13,3 +13,16 @@ branches are branched off sections of our repository that allow us to modify cod
 What is the benefit of having a copy of the last known state of the remote stored locally?
 because this can let us compare from that state and the state we are currently working in.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+without git and github I would probably manually have several versions of a file save in a single folder. For each bigger change I might have them in subfolders. And for collaborating I would be using some sort of cloud storage and group chats such as slack.
+
+
+
+
+
+
+
+
+
+
+
