@@ -16,7 +16,10 @@ because this can let us compare from that state and the state we are currently w
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 without git and github I would probably manually have several versions of a file save in a single folder. For each bigger change I might have them in subfolders. And for collaborating I would be using some sort of cloud storage and group chats such as slack.
 
-
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When you are working off someone elses copy, or if you want to add a new feature. I think if you are collaborating with someone. It might be better to create a new branch because this will allow me to make changes that might not affect someone elses code for the time being. Then, when I am finally ready to commit my changes, then I will merge it back to master.
+The benefit of using the branches is that we can add features without actually disrupting the code in the master, this is a lot more work though with having to pull and push after.
+the benefit that just working in master is that it may be faster and all changes you commit are readily available and will work for everyone right away.
 
 
 
